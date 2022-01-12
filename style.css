@@ -296,7 +296,7 @@ footer h3{
 
 /* Responsive dising of 6.5"*/
 
-@media (max-width: 412px) {
+@media (max-width: 700px) {
     /*size of the charts*/
 
     h1 {
